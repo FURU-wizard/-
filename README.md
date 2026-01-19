@@ -1,3 +1,3 @@
 #-
-Random Forest: 用于将两组学进行随机森林训练，并将
+Random Forest: 结合了smartseq2组学和scp组学进行随机森林训练，进行MDA贡献基因提取，进行基因差异分析
 S_group_shorld_devide :将anndata的21个S参进行阈值划分调回到原来的数据中
